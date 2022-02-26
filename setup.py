@@ -12,13 +12,13 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/sudeepk07/Topsis-Sudeep-101903496.git",
+    url="https://github.com/sudeepk07/Topsis-Sudeep-101903496",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=["Topsis-Sudeep-101903496"],
+    packages=["Topsis_Sudeep_101903496"],
     include_package_data=True,
     install_requires='pandas',
     entry_points={
