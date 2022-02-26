@@ -23,7 +23,7 @@ setuptools.setup(
     install_requires='pandas',
     entry_points={
         "console_scripts": [
-            "topsis=Topsis-Sudeep-101903496.topsis:main",
+            "topsis=Topsis_Sudeep_101903496.topsis:main",
         ]
     },
 )
